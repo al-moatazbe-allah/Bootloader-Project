@@ -1,4 +1,4 @@
-#include "usart.h"
+#include "USART.h"
 #include "flash_helpers.h"
 #include <stdint.h>
 #include <string.h>
